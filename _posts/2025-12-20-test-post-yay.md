@@ -17,13 +17,9 @@ He's a little lad.
 
 ## Extremely anxious
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+I miss him so much guys. like it's kinda crazy.
 
 LOOK AT HIM
 
-![dog](https://lucyshadel.com/assets/img/unnamed.jpg)
+![dog](https://lucyshadel.github.io/assets/img/unnamed.jpg)
 
