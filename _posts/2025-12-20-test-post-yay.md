@@ -3,8 +3,6 @@ layout: post
 title: Check out my dog!
 subtitle: Bruiser
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 mathjax: true
 author: Lucy Shadel
