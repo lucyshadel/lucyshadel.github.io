@@ -10,6 +10,6 @@ I am a history/theatre major
 - theatre for fun
 
 
-### My story
+### My elevator pitch
 
-I'm from Virginia. I have a brother. I have a cat.
+I knit. I used to work in a needlepoint shop. My dad was a CS major. I'm taking this class because I love crafty things and because I want a better idea of what my dad does.
