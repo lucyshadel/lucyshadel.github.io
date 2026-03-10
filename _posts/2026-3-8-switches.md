@@ -18,3 +18,4 @@ Tip: conductive fabric frays very easily! Make sure it's held down properly.
 ![post](https://lucyshadel.github.io/assets/img/IMG_6669.jpeg)
 ![post](https://lucyshadel.github.io/assets/img/IMG_6670.jpeg)
 ![post](https://lucyshadel.github.io/assets/img/IMG_6671.jpeg)
+![post](https://lucyshadel.github.io/assets/img/switch.jpeg)
