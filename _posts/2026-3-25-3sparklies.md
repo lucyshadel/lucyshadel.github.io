@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RGB LED Loop
+title: Seperate Sparklies Project
 gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
