@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sparklies: All Together!
+title: Sparklies All Together!
 gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
@@ -13,4 +13,4 @@ Description: Combines the three individual sparklies submitted in the last post.
 
 Tip: be careful about delays/managing the timer
 
-![post](https://lucyshadel.github.io/assets/img/unnamed.jpg)
+![post](https://lucyshadel.github.io/assets/img/spark.jpg)
