@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sparklies All Together!
+title: Sparklies All Together
 gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
